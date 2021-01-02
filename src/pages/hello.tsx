@@ -1,0 +1,1 @@
+export default function hello(): JSX.Element{ return <><h1>it worked</h1></> }
